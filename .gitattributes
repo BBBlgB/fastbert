@@ -1,0 +1,2 @@
+Epoch_3.bin filter=lfs diff=lfs merge=lfs -text
+Epoch_8.bin filter=lfs diff=lfs merge=lfs -text
